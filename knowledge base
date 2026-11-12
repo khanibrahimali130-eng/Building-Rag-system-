@@ -1,0 +1,142 @@
+# ClipRank Labs - Company Overview
+Document ID: DOC-01 | Type: Company overview | Version: 1.4 | Effective date: 2026-01-15 | Status: CURRENT
+
+## About the company
+ClipRank Labs (Pvt) Ltd is a fictional software company founded in March 2024. It builds the SEO Clip Score Tool, a web platform where creators upload long-form videos. The tool automatically detects short clips and scores each clip from 0 to 100 for search and social potential. All information in this knowledge base is fictional and for classroom use only.
+
+## Who uses the tool
+Creators, small studios, and marketing teams use the tool to decide which clips to publish. As of the report date 2026-11-01, the pilot platform had 6 registered users, 10 uploaded videos, 42 generated clips, and an average SEO score of 69.8. The top clip was C021, with a score of 84.
+
+## Who uses this assistant
+This knowledge assistant is for ClipRank Labs support agents and new customers. It answers questions about plans, features, refunds, limits, data retention, and support procedures.
+
+## Locations
+- Headquarters: Office 4B, Harbor Point Tower, Clifton, Karachi, Pakistan.
+- Support hub: 3rd Floor, Lakeview Square, Indiranagar, Bengaluru, India.
+- ClipRank Labs has no office in the United States or Europe.
+
+## Opening hours
+- Karachi headquarters and phone support: Monday to Friday, 09:00 to 18:00 Pakistan Standard Time (PKT). Closed on Saturday, Sunday, and Pakistani public holidays.
+- Bengaluru support hub: Monday to Friday, 10:00 to 19:00 India Standard Time (IST).
+- The web platform is available 24 hours a day, except during the weekly maintenance window described in the Operations document (DOC-05).
+
+## Contact details
+- General support email: support@cliprank-labs.example
+- Billing email: billing@cliprank-labs.example
+- Phone (Karachi): +92-21-555-0142
+- Website: www.cliprank-labs.example
+# ClipRank Labs - Products, Plans and Features
+Document ID: DOC-02 | Type: Products and services | Version: 2.1 | Effective date: 2026-09-01 | Status: CURRENT
+
+## Plans and prices
+| Plan | Monthly price | Annual price | Videos per month | Maximum video length |
+|------|---------------|--------------|------------------|----------------------|
+| Free | $0 | not applicable | 3 | 30 minutes |
+| Pro | $19 | $190 | 20 | 60 minutes |
+| Business | $59 | $590 | 100 | 120 minutes |
+
+## SEO score formula
+The SEO Score is a number from 0 to 100: 25% keyword relevance, 20% title strength, 25% hook strength (first 3 seconds), 20% predicted engagement, and 10% thumbnail quality. Ratings: 85 and above is Excellent, 70 to 84 is Good, 55 to 69 is Fair, and below 55 is Needs work.
+
+## Offerings and features
+1. Auto Clip Detection: finds moments such as Q&A highlights, big reveals, common mistakes, and step-by-step tips. Detected clips last between 15 and 60 seconds. Available on all plans.
+2. SEO Score Report: gives every clip a score from 0 to 100 with a rating. Available on all plans.
+3. Hook Analyzer: rates the first 3 seconds of a clip, which carry 25% of the SEO score.
+4. Title Strength Checker: scores a clip title and suggests improvements. Title strength carries 20% of the score.
+5. Tag Suggestions: proposes 3 suggested tags for each clip, such as "how to" or "beginner guide".
+6. Thumbnail Quality Check: rates thumbnail sharpness and clarity. It carries 10% of the score.
+7. Engagement Prediction: estimates how viewers will respond. It carries 20% of the score.
+8. Keyword Relevance Engine: compares clip content with search keywords. It carries 25% of the score, and Education and Tech videos tend to score highest here.
+9. Clip Export: downloads clips as MP4 files. Available on all plans, with the quality limits described in DOC-05.
+10. Bulk Export and CSV Reports: exports many clips and score tables at once. Available on Pro and Business only.
+11. Team Workspace: lets several people share videos and reports. Business plan only.
+12. Activity Log: records logins, exports, downloads, and edits with timestamps. Business plan only.
+# ClipRank Labs - Refund, Usage and Data Retention Policy
+Document ID: DOC-03 | Policy version: 3.0 | Effective date: 2026-09-01 | Status: CURRENT
+Replaces: Version 2.0 (archived, see DOC-04)
+
+## 1. Purpose
+This policy explains refunds, plan limits, cancellation, and how long ClipRank Labs keeps customer data. It applies to all Free, Pro, and Business accounts. Version 3.0 is the policy to use for any question about current rules.
+
+## 2. Refunds
+2.1 General rule: a customer may request a refund within 14 days of the first payment for a paid plan, provided fewer than 20 clips have been generated since that payment.
+2.2 Exception A (Business annual plans): a Business annual subscription may be refunded within 30 days of payment. The 20-clip limit does not apply to this exception.
+2.3 Exception B (duplicate charges): a duplicate charge is refunded in full at any time within 60 days of the charge, whatever the usage.
+2.4 Approved refunds are returned to the original payment method within 5 business days.
+2.5 Monthly renewals after the first payment are not refundable. A customer should cancel before the renewal date.
+
+## 3. Plan limits
+Monthly video allowances and maximum video lengths for each plan are listed in the plan table of the Products document (DOC-02). A video longer than the plan maximum is rejected at upload. Videos shorter than 5 minutes are not analysed on any plan.
+
+## 4. Cancellation and downgrades
+A customer can cancel at any time from Settings > Billing. Access to paid features continues until the end of the paid period. A downgrade takes effect at the start of the next billing period.
+
+## 5. Data retention
+5.1 Uploaded source videos are deleted 90 days after the last activity on that video.
+5.2 Generated clips and SEO score reports are kept for 12 months after creation.
+5.3 Activity logs (Business plan) are kept for 180 days.
+5.4 When an account is deleted, all personal data is removed within 30 days.
+# ClipRank Labs - Refund, Usage and Data Retention Policy (OLD VERSION)
+Document ID: DOC-04 | Policy version: 2.0 | Effective date: 2025-03-01 | End date: 2026-08-31 | Status: ARCHIVED
+Superseded by: Version 3.0 (DOC-03). Use this document only when a user asks about old or previous rules.
+
+## 1. Refunds (old rules)
+1.1 A customer could request a refund within 7 days of the first payment, provided fewer than 10 clips had been generated.
+1.2 There was no special rule for Business annual plans. They followed the same 7-day rule.
+1.3 A duplicate charge was refunded only if reported within 30 days.
+1.4 Approved refunds were returned within 10 business days.
+
+## 2. Plan limits and prices (old rules)
+- Free: 2 videos per month, maximum 20 minutes each.
+- Pro: 15 videos per month, maximum 45 minutes each. Price was $15 per month.
+- Business: 50 videos per month, maximum 90 minutes each. Price was $49 per month.
+
+## 3. Cancellation (old rule)
+Cancellation ended access to paid features on the same day. No access remained for the rest of the paid period.
+
+## 4. Data retention (old rules)
+4.1 Uploaded source videos were deleted 30 days after the last activity.
+4.2 Generated clips and SEO score reports were kept for 6 months.
+4.3 Activity logs were kept for 90 days.
+4.4 Personal data was removed within 60 days of account deletion.
+# ClipRank Labs - Operations and FAQs
+Document ID: DOC-05 | Type: Operations and FAQs | Version: 1.2 | Effective date: 2026-10-01 | Status: CURRENT
+
+## How a video is processed
+1. The user uploads a video from the Upload page.
+2. The tool detects clips of 15 to 60 seconds.
+3. Each clip is scored and given 3 suggested tags.
+4. The user reviews the report and exports the clips they want.
+Processing takes about 1 minute for every 10 minutes of video on Free and Pro plans. Business plan videos use a priority queue and take about 30 seconds for every 10 minutes.
+
+## Exceptions to normal processing
+- Exception: videos shorter than 5 minutes are not analysed on any plan.
+- Exception: Business customers may ask support for a one-time length extension to 180 minutes for a single video. Approval takes up to 2 business days.
+
+## Recommended action for low scores
+Re-title any clip scoring below 55 and add at least 3 relevant tags before publishing. Clips with a strong hook score (85 or above) tend to have higher overall SEO scores.
+
+## How to request a refund
+1. Check the refund rules in the current policy (DOC-03).
+2. Email billing@cliprank-labs.example from the registered account address.
+3. Include the account name, the payment date, and the reason.
+4. The billing team replies within 1 business day.
+
+## Support response targets
+- Free plan: within 48 hours.
+- Pro plan: within 24 hours.
+- Business plan: within 4 business hours.
+
+## Maintenance window
+The platform is offline for maintenance every Sunday from 02:00 to 03:00 UTC.
+
+## Frequently asked questions
+**What export quality do I get?** Free accounts export clips up to 720p. Pro and Business accounts export up to 4K.
+
+**How do I reset my password?** Use "Forgot password" on the login page. The reset link is valid for 30 minutes.
+
+**Can I change a clip title after export?** Yes. Edit the title and tags in the report, then export again. Each edit appears in the Activity Log on Business plans.
+
+**Which time zone do activity logs use?** All timestamps are in UTC.
+
+**Is my data shared with other customers?** No. Each account can see only its own videos and reports.
